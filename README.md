@@ -9,4 +9,10 @@ Here I will put all my training files.
 * markup docs
 * version control
 * classes and libraries
+## Stuff I have yet to learn
+* Math methods
+* Using Scala in webdev
+* Graphical functions
+* Console
+* File I/O
 
